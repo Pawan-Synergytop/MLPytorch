@@ -1,0 +1,6 @@
+framework module Pods_MLPytorch_MLPytorchTests {
+  umbrella header "Pods-MLPytorch-MLPytorchTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
